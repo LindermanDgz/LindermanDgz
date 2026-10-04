@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Linderman Dominguez 👋
 
-<!--
-**LindermanDgz/LindermanDgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔧 I specialize in low-level programming, backend systems, and DevOps automation.
+- 💻 I work primarily with C++, Python, Linux, and modern infrastructure tooling.
+- 🧠 I enjoy writing reliable, scalable, and maintainable software.
+- 📚 I’m committed to continuous learning and solving complex technical problems.
+- ☕ I love listening to music, reading e-books, drinking coffee, spending time with family and traveling.
 
-Here are some ideas to get you started:
+## Let’s connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 LinkedIn: [Linderman Dominguez](https://www.linkedin.com/in/emmanueldgz)
+- 🌐 Website: [emmanueldgz.com](https://www.emmanueldgz.com/)
+
+---
+
+> “Any sufficiently advanced technology is indistinguishable from magic. ~Arthur C. Clarke”
